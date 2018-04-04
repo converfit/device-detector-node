@@ -1,6 +1,6 @@
 {
   "name": "nodejs-device-detector",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Port from Matomo Device Detector, package to parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.",
   "main": "index.js",
   "scripts": {
