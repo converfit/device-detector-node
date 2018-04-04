@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MiGatoSeneca/nodejs-device-detector.git"
+    "url": "git+https://github.com/MiGatoSeneca/device-detector-node.git"
   },
   "author": "MiGatoSeneca",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MiGatoSeneca/nodejs-device-detector/issues"
+    "url": "https://github.com/MiGatoSeneca/device-detector-node/issues"
   },
-  "homepage": "https://github.com/MiGatoSeneca/nodejs-device-detector#readme",
+  "homepage": "https://github.com/MiGatoSeneca/device-detector-node#readme",
   "dependencies": {
     "yamljs": "^0.2.8"
   }
