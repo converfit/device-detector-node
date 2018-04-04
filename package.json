@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-device-detector",
+  "version": "0.1.0",
+  "description": "Port from Matomo Device Detector, package to parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiGatoSeneca/nodejs-device-detector.git"
+  },
+  "author": "MiGatoSeneca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MiGatoSeneca/nodejs-device-detector/issues"
+  },
+  "homepage": "https://github.com/MiGatoSeneca/nodejs-device-detector#readme",
+  "dependencies": {
+    "yamljs": "^0.2.8"
+  }
+}
