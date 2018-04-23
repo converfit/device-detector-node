@@ -1,11 +1,11 @@
 {
   "author": "MiGatoSeneca",
   "name": "device-detector-node",
-  "version": "0.1.2",
+  "version": "0.1.37",
   "description": "Port from Matomo Device Detector, package to parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.",
   "main": "index.js",
   "scripts": {
-    "test": "mocha -R nyan test/test.js"
+    "test": "mocha test/test.js"
   },
   "contributors": [
     {

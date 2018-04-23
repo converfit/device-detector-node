@@ -63,6 +63,9 @@ DeviceDetector.prototype.loadCollections = function(){
 
   // Device Collections
 
+  path = this.base_path + '/device/mobiles.yml';
+  this.collections.device.mobiles  = YAML.load(path);
+
   path = this.base_path + '/device/cameras.yml';
   this.collections.device.cameras  = YAML.load(path);
 
@@ -78,8 +81,6 @@ DeviceDetector.prototype.loadCollections = function(){
   path = this.base_path + '/device/televisions.yml';
   this.collections.device.televisions  = YAML.load(path);
 
-  path = this.base_path + '/device/mobiles.yml';
-  this.collections.device.mobiles  = YAML.load(path);
 
   // Bots Collections
 
@@ -212,20 +213,19 @@ DeviceDetector.prototype.getDevice = function(user_agent){
         if(collection[key].model){
           device.model = this.buildModel(collection[key].model,model_match);
         }
-
         if(collection[key].models){
           for(var i= 0, l = collection[key]['models'].length; i < l; i++){
             var data = collection[key]['models'][i];
             var model_preg = getBaseRegExp(data.regex);
             if(model_match = model_preg.exec(user_agent)){
               if(data.model){
-                device.model = this.buildModel(data.model,model_match);
+                device.model = (this.buildModel(data.model,model_match)).replace(/ +$/, "");
               }
-              if(data.type){
+              if(data.device){
                 device.type = data.device;
               }
               if(data.brand){
-                device.vendor = data.device;
+                device.vendor = data.vendor;
               }
               break;
             }

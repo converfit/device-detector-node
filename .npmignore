@@ -1,3 +1,7 @@
+### git ###
+.git
+.gitignore
+
 node_modules/
 
 npm-debug.log
