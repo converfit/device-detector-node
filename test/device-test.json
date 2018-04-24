@@ -1,0 +1,173 @@
+[
+  {
+    "desc": "bq Aquaris 5",
+    "ua": "Mozilla/5.0 (Linux; U; Android 4.2.1; es-es; bq Aquaris 5 Build/JOP40D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+    "expect": {
+      "vendor": "bq",
+      "model": "Aquaris 5"
+    }
+  },
+  {
+    "desc": "Huawei Y7",
+    "ua": "Mozilla/5.0 (Linux; Android 7.0; TRT-L21A Build/HUAWEITRT-L21A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36",
+    "expect": {
+      "vendor": "Huawei",
+      "model": "Y7 Prime"
+    }
+  },
+  {
+    "desc": "LG V30",
+    "ua": "Mozilla/5.0 (Linux; Android 7.1.2; LG-H930 Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36",
+    "expect": {
+      "vendor": "LG",
+      "model": "V30"
+    }
+  },
+  {
+    "desc": "LG G4",
+    "ua": "Mozilla/5.0 (Linux; Android 5.1; LG-H815 Build/LMY47D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Mobile Safari/537.36",
+    "expect": {
+      "vendor": "LG",
+      "model": "G4"
+    }
+  },
+  {
+    "desc": "Samsung Galaxy S9",
+    "ua": "Mozilla/5.0 (Linux; Android 8.0; SM-G960F Build/R16NW; xx-xx) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36",
+    "expect": {
+      "vendor": "Samsung",
+      "model": "GALAXY S9"
+    }
+  },
+  {
+    "desc": "Samsung Galaxy S8",
+    "ua": "Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-G950F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/5.2 Chrome/51.0.2704.106 Mobile Safari/537.36",
+    "expect": {
+      "vendor": "Samsung",
+      "model": "GALAXY S8"
+    }
+  },
+  {
+    "desc": "Samsung Galaxy S8+",
+    "ua": "Mozilla/5.0 (Linux; Android 7.0;SAMSUNG SM-G955F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/5.2 Chrome/51.0.2704.106 Mobile Safari/537.36",
+    "expect": {
+      "vendor": "Samsung",
+      "model": "GALAXY S8+"
+    }
+  },
+  {
+    "desc": "Samsung Galaxy S7",
+    "ua": "Mozilla/5.0 (Linux; Android 7.0; SM-G930VC Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/58.0.3029.83 Mobile Safari/537.36",
+    "expect": {
+      "vendor": "Samsung",
+      "model": "GALAXY S7"
+    }
+  }
+
+
+  ,
+  {
+    "desc": "Samsung Galaxy S7 Edge",
+    "ua": "Mozilla/5.0 (Linux; Android 6.0.1; SM-G935S Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36",
+    "expect": {
+      "vendor": "Samsung",
+      "model": "GALAXY S7 edge"
+    }
+  },
+  {
+    "desc": "Samsung Galaxy S6 Edge",
+    "ua": "Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG SM-G925F Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/44.0.2403.133 Mobile Safari/537.36",
+    "expect": {
+      "vendor": "Samsung",
+      "model": "GALAXY S6 edge"
+    }
+  },
+  {
+    "desc": "Samsung Galaxy S6",
+    "ua": "Mozilla/5.0 (Linux; Android 6.0.1; SM-G920V Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.98 Mobile Safari/537.36",
+    "expect": {
+      "vendor": "Samsung",
+      "model": "GALAXY S6"
+    }
+  },
+  {
+    "desc": "Samsung Galaxy S5",
+    "ua": "Mozilla/5.0 (Linux; Android 6.0.1; SM-G900V Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.98 Mobile Safari/537.36",
+    "expect": {
+      "vendor": "Samsung",
+      "model": "GALAXY S5"
+    }
+  },
+  {
+    "desc": "Samsung Galaxy J7",
+    "ua": "Mozilla/5.0 (Linux; Android 5.1.1; SM-J700F Build/LMY48B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.83 Mobile Safari/537.36",
+    "expect": {
+      "vendor": "Samsung",
+      "model": "GALAXY J7"
+    }
+  }
+
+
+
+  ,
+  {
+    "desc": "Samsung Galaxy J5",
+    "ua": "Mozilla/5.0 (Linux; Android 5.1; SM-J500H Build/LMY48B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.93 Mobile Safari/537.36",
+    "expect": {
+      "vendor": "Samsung",
+      "model": "GALAXY J5"
+    }
+  },
+  {
+    "desc": "Samsung Galaxy A8",
+    "ua": "Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-A800F Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 Chrome/38.0.2125.102 Mobile Safari/537.36",
+    "expect": {
+      "vendor": "Samsung",
+      "model": "GALAXY A8"
+    }
+  },
+  {
+    "desc": "Samsung Note 8",
+    "ua": "Mozilla/5.0 (Linux; U; Android 4.2.2; en-us; GT-N5110 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30",
+    "expect": {
+      "vendor": "Samsung",
+      "model": "GALAXY Note 8"
+    }
+  },
+  {
+    "desc": "Xiaomi Redmi Note",
+    "ua": "Mozilla/5.0 (Linux; Android 4.4.4; HM NOTE 1LTE Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.135 Mobile Safari/537.36",
+    "expect": {
+      "vendor": "Xiaomi",
+      "model": "Redmi Note"
+    }
+  }
+  ,
+  {
+    "desc": "Huawei P9 Lite",
+    "ua": "Mozilla/5.0 (Linux; Android 6.0; HUAWEI VNS-L31 Build/HUAWEIVNS-L31) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.89 Mobile Safari/537.36",
+    "expect": {
+      "vendor": "Huawei",
+      "model": "P9 Lite"
+    }
+  },
+  {
+    "desc": "Huawei P10 Lite",
+    "ua": "Mozilla/5.0 (Linux; Android 7.0; WAS-TL10 Build/HUAWEIWAS-TL10; xx-xx) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.3",
+    "expect": {
+      "vendor": "Huawei",
+      "model": "P10 Lite"
+    }
+  },
+  {
+    "desc": "Huawei Mate 10 Pro",
+    "ua": "Mozilla/5.0 (Linux; Android 8.0; BLA-L29 Build/HUAWEIBLA-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3236.6 Mobile Safari/537.36",
+    "expect": {
+      "vendor": "Huawei",
+      "model": "Mate 10 Pro"
+    }
+  }
+
+
+
+]
