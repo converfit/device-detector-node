@@ -260,7 +260,8 @@
     "ua": "Mozilla/5.0 (Linux; Android 8.0; SM-G960F Build/R16NW; xx-xx) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36",
     "expect": {
       "vendor": "Samsung",
-      "model": "GALAXY S9"
+      "model": "SM-G960",
+      "marketingName": "GALAXY S9"
     }
   },
   {
@@ -268,7 +269,8 @@
     "ua": "Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG SM-G965F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/7.0 Chrome/59.0.3071.125 Mobile Safari/537.36",
     "expect": {
       "vendor": "Samsung",
-      "model": "GALAXY S9+"
+      "model": "SM-G965",
+      "marketingName": "GALAXY S9+"
     }
   },
   {
@@ -276,7 +278,8 @@
     "ua": "Mozilla/5.0 (Linux; Android 8.0.0; SM-G965F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile Safari/537.36",
     "expect": {
       "vendor": "Samsung",
-      "model": "GALAXY S9+"
+      "model": "SM-G965",
+      "marketingName": "GALAXY S9+"
     }
   },
   {
@@ -284,7 +287,8 @@
     "ua": "Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-G950F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/5.2 Chrome/51.0.2704.106 Mobile Safari/537.36",
     "expect": {
       "vendor": "Samsung",
-      "model": "GALAXY S8"
+      "model": "SM-G950",
+      "marketingName": "GALAXY S8"
     }
   },
   {
@@ -292,7 +296,8 @@
     "ua": "Mozilla/5.0 (Linux; Android 7.0;SAMSUNG SM-G955F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/5.2 Chrome/51.0.2704.106 Mobile Safari/537.36",
     "expect": {
       "vendor": "Samsung",
-      "model": "GALAXY S8+"
+      "model": "SM-G955",
+      "marketingName": "GALAXY S8+"
     }
   },
   {
@@ -300,7 +305,8 @@
     "ua": "Mozilla/5.0 (Linux; Android 7.0; SM-G930VC Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/58.0.3029.83 Mobile Safari/537.36",
     "expect": {
       "vendor": "Samsung",
-      "model": "GALAXY S7"
+      "model": "SM-G930",
+      "marketingName": "GALAXY S7"
     }
   },
   {
@@ -308,7 +314,8 @@
     "ua": "Mozilla/5.0 (Linux; Android 6.0.1; SM-G935S Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36",
     "expect": {
       "vendor": "Samsung",
-      "model": "GALAXY S7 edge"
+      "model": "SM-G935",
+      "marketingName": "GALAXY S7 Edge"
     }
   },
   {
@@ -316,7 +323,8 @@
     "ua": "Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG SM-G925F Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/44.0.2403.133 Mobile Safari/537.36",
     "expect": {
       "vendor": "Samsung",
-      "model": "GALAXY S6 edge"
+      "model": "SM-G925",
+      "marketingName": "GALAXY S6 edge"
     }
   },
   {
@@ -324,7 +332,8 @@
     "ua": "Mozilla/5.0 (Linux; Android 5.1.1; SM-G928X Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.83 Mobile Safari/537.36",
     "expect": {
       "vendor": "Samsung",
-      "model": "GALAXY S6 edge+"
+      "model": "SM-G928",
+      "marketingName": "GALAXY S6 edge+"
     }
   },
   {
@@ -332,7 +341,8 @@
     "ua": "Mozilla/5.0 (Linux; Android 6.0.1; SM-G920V Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.98 Mobile Safari/537.36",
     "expect": {
       "vendor": "Samsung",
-      "model": "GALAXY S6"
+      "model": "SM-G920",
+      "marketingName":"GALAXY S6"
     }
   },
   {
@@ -340,7 +350,8 @@
     "ua": "Mozilla/5.0 (Linux; Android 4.4.2; SAMSUNG-SM-G900A Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36",
     "expect": {
       "vendor": "Samsung",
-      "model": "GALAXY S5"
+      "model": "SM-G900",
+      "marketingName":"GALAXY S5"
     }
   },
 
@@ -349,7 +360,8 @@
     "ua": "Mozilla/5.0 (Linux; Android 4.4.2; en-us; SAMSUNG SM-G900T Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.6 Chrome/28.0.1500.94 Mobile Safari/537.36",
     "expect": {
       "vendor": "Samsung",
-      "model": "GALAXY S5"
+      "model": "SM-G900",
+      "marketingName":"GALAXY S5"
     }
   },
 
@@ -358,7 +370,8 @@
     "ua": "Mozilla/5.0 (Linux; Android 6.0.1; SM-G900V Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.98 Mobile Safari/537.36",
     "expect": {
       "vendor": "Samsung",
-      "model": "GALAXY S5"
+      "model": "SM-G900",
+      "marketingName":"GALAXY S5"
     }
   },
   {
@@ -366,7 +379,8 @@
     "ua": "Mozilla/5.0 (Linux; Android 5.1; SM-G903F Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Mobile Safari/537.36",
     "expect":{
       "vendor": "Samsung",
-      "model": "GALAXY S5 Neo"
+      "model": "SM-G903",
+      "marketingName":"GALAXY S5 Neo"
     }
   },
   {
@@ -374,7 +388,8 @@
     "ua": "Mozilla/5.0 (Linux; Android 4.4.2; en-gb; SAMSUNG GT-I9195 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 Chrome/28.0.1500.94 Mobile Safari/537.36",
     "expect": {
       "vendor": "Samsung",
-      "model": "GALAXY S4 mini"
+      "model": "GT-I919",
+      "marketingName":"GALAXY S4 mini"
     }
   },
 
@@ -383,7 +398,8 @@
     "ua": "Mozilla/5.0 (Linux; Android 4.4.2; en-gb; SAMSUNG GT-I9195 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 Chrome/28.0.1500.94 Mobile Safari/537.36",
     "expect": {
       "vendor": "Samsung",
-      "model": "GALAXY S4 mini"
+      "model": "GT-I919",
+      "marketingName":"GALAXY S4 mini"
     }
   },
 
@@ -392,7 +408,8 @@
     "ua": "Mozilla/5.0 (Linux; Android 4.2.2; en-gb; SAMSUNG GT-I9195 Build/JDQ39) AppleWebKit/535.19 (KHTML, like Gecko) Version/1.0 Chrome/18.0.1025.308 Mobile Safari/535.19",
     "expect": {
       "vendor": "Samsung",
-      "model": "GALAXY S4 mini"
+      "model": "GT-I919",
+      "marketingName":"GALAXY S4 mini"
     }
   },
   {
@@ -400,7 +417,8 @@
     "ua": "Mozilla/5.0 (Linux; Android 5.1.1; SM-J700F Build/LMY48B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.83 Mobile Safari/537.36",
     "expect": {
       "vendor": "Samsung",
-      "model": "GALAXY J7"
+      "model": "SM-J700",
+      "marketingName":"GALAXY J7"
     }
   },
   {
@@ -408,7 +426,8 @@
     "ua": "Mozilla/5.0 (Linux; Android 7.1.1; SM-J700 Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.65 Mobile Safari/537.36",
     "expect": {
       "vendor": "Samsung",
-      "model": "GALAXY J7"
+      "model": "SM-J700",
+      "marketingName":"GALAXY J7"
     }
   },
   {
@@ -416,7 +435,8 @@
     "ua": "Mozilla/5.0 (Linux; Android 5.1.1; SM-J700 Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.65 Mobile Safari/537.36",
     "expect": {
       "vendor": "Samsung",
-      "model": "GALAXY J7"
+      "model": "SM-J700",
+      "marketingName":"GALAXY J7"
     }
   },
   {
@@ -424,7 +444,8 @@
     "ua": "Mozilla/5.0 (Linux; Android 5.1; SM-J500H Build/LMY48B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.93 Mobile Safari/537.36",
     "expect": {
       "vendor": "Samsung",
-      "model": "GALAXY J5"
+      "model": "SM-J500",
+      "marketingName":"GALAXY J5"
     }
   },
   {
@@ -432,7 +453,8 @@
     "ua": "Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-J500F Build/LMY48B) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 Chrome/38.0.2125.102 Mobile Safari/537.36",
     "expect": {
       "vendor": "Samsung",
-      "model": "GALAXY J5"
+      "model": "SM-J500",
+      "marketingName":"GALAXY J5"
     }
   },
   {
@@ -440,7 +462,8 @@
     "ua": "Mozilla/5.0 (Linux; Android 6.0.1; SM-J500F Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Mobile Safari/537.36",
     "expect": {
       "vendor": "Samsung",
-      "model": "GALAXY J5"
+      "model": "SM-J500",
+      "marketingName":"GALAXY J5"
     }
   },
   {
@@ -448,7 +471,8 @@
     "ua": "Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-A800F Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 Chrome/38.0.2125.102 Mobile Safari/537.36",
     "expect": {
       "vendor": "Samsung",
-      "model": "GALAXY A8"
+      "model": "SM-A800",
+      "marketingName":"GALAXY A8"
     }
   },
   {
@@ -456,7 +480,8 @@
     "ua":"Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-A8000 Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 Chrome/38.0.2125.102 Mobile Safari/537.36",
     "expect": {
       "vendor": "Samsung",
-      "model": "GALAXY A8"
+      "model": "SM-A800",
+      "marketingName":"GALAXY A8"
     }
   },
   {
@@ -464,7 +489,8 @@
     "ua":"Mozilla/5.0 (Linux; Android 5.1.1; SM-A8000 Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Mobile Safari/537.36",
     "expect": {
       "vendor": "Samsung",
-      "model": "GALAXY A8"
+      "model": "SM-A800",
+      "marketingName":"GALAXY A8"
     }
   },
   {
@@ -472,7 +498,8 @@
     "ua": "Mozilla/5.0 (Linux; Android 4.4.4; SM-A700F Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Mobile Safari/537.36",
     "expect": {
       "vendor": "Samsung",
-      "model": "GALAXY A7"
+      "model": "SM-A700",
+      "marketingName":"GALAXY A7"
     }
   },
   {
@@ -480,7 +507,8 @@
     "ua": "Mozilla/5.0 (Linux; Android 5.0.2; SAMSUNG SM-A7000 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 Chrome/38.0.2125.102 Mobile Safari/537.36",
     "expect": {
       "vendor": "Samsung",
-      "model": "GALAXY A7"
+      "model": "SM-A700",
+      "marketingName":"GALAXY A7"
     }
   },
   {
@@ -488,7 +516,8 @@
     "ua": "Mozilla/5.0 (Linux; Android 5.0.2; SM-A7000 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Mobile Safari/537.36",
     "expect": {
       "vendor": "Samsung",
-      "model": "GALAXY A7"
+      "model": "SM-A700",
+      "marketingName":"GALAXY A7"
     }
   },
   {
@@ -496,7 +525,8 @@
     "ua": "Mozilla/5.0 (Linux; Android 5.0.2; SAMSUNG SM-A500FU Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 Chrome/38.0.2125.102 Mobile Safari/537.36",
     "expect": {
       "vendor": "Samsung",
-      "model": "GALAXY A5 (2015)"
+      "model": "SM-A500FU",
+      "marketingName":"GALAXY A5 (2015)"
     }
   },
 
@@ -505,7 +535,8 @@
     "ua":"Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG SM-A500FU Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/44.0.2403.133 Mobile Safari/537.36",
     "expect": {
       "vendor": "Samsung",
-      "model": "GALAXY A5 (2015)"
+      "model": "SM-A500FU",
+      "marketingName":"GALAXY A5 (2015)"
     }
   },
 
@@ -514,7 +545,8 @@
     "ua":"Mozilla/5.0 (Linux; Android 5.0.2; SM-A500FU Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile Safari/537.36",
     "expect": {
       "vendor": "Samsung",
-      "model": "GALAXY A5 (2015)"
+      "model": "SM-A500FU",
+      "marketingName":"GALAXY A5 (2015)"
     }
   },
   {
@@ -522,7 +554,8 @@
     "ua": "Mozilla/5.0 (Linux; U; Android 4.2.2; en-us; GT-N5110 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30",
     "expect": {
       "vendor": "Samsung",
-      "model": "GALAXY Note 8"
+      "model": "N5110",
+      "marketingName":"GALAXY Note 8"
     }
   },
   {
