@@ -94,7 +94,6 @@ DeviceDetector.prototype.loadCollections = function(){
 
 };
 
-
 DeviceDetector.prototype.buildModel = function (model, matches)
 {
     model = this.buildByMatch(model, matches);
@@ -180,7 +179,7 @@ DeviceDetector.prototype.parsePlatform = function(user_agent){
 }
 
 
-DeviceDetector.prototype.buildByMatch = function(item, matches){
+  DeviceDetector.prototype.buildByMatch = function(item, matches){
   item = item.toString();
     for (var nb=1;nb<=3;nb++) {
         if (item.indexOf('$' + nb) == -1) {
